@@ -1,3 +1,5 @@
+//Oii, Rena esteve aqui
+
 import * as React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
 import { createAppContainer, createSwitchNavigator } from 'react-navigation';
